@@ -1,3 +1,5 @@
 # jupyter_test
 create and share Jupyter notebook by using watson studio
-It's a markdown and a single code file in this repositery.
+The python project for Data science code file in this repositery.
+
+Watson Link of my project - https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd8928ec-30aa-4c0d-b200-82d8ca87f8d5/view?access_token=eb1c4ed89e697bc3622ee21c7654fbd1383d5d825b80373ae2b9287db365125b
