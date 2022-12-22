@@ -1,4 +1,4 @@
-# jupyter_test
+# jupyter_lab
 create and share Jupyter notebook by using watson studio
 The python project for Data science code file in this repositery.
 
